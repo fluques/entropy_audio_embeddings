@@ -41,3 +41,4 @@ t = time
 
 ## Cite
 [1] Camarena-Ibarrola, A., Chávez, E., & Tellez, E. S. (2009, November). Robust radio broadcast monitoring using a multi-band spectral entropy signature. In Iberoamerican Congress on Pattern Recognition (pp. 587-594). Berlin, Heidelberg: Springer Berlin Heidelberg.
+[2] Camarena-Ibarrola, A., Luque, F., & Chavez, E. (2017, November). Speaker identification through spectral entropy analysis. In 2017 IEEE international autumn meeting on power, electronics and computing (ROPEC) (pp. 1-6). IEEE.
