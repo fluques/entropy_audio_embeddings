@@ -1,4 +1,4 @@
-from entropy_embeddings import multiband_entropy_from_mp3
+from entropy_audio_embeddings import multiband_entropy_from_mp3
 from pathlib import Path
 
 
