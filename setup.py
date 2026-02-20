@@ -12,11 +12,11 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name="entropy-embeddings", # Replace with your own username
+    name="entropy-audio-embeddings", # Replace with your own username
     version="0.1.0",
     author="Fernando Luque",
     author_email="ing.fernando.luqueg@gmail.com",
-    description="entropy-embeddings: audio mapping to low dimensional metric space",
+    description="entropy-audio-embeddings: audio mapping to low dimensional metric space",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/fluques/entropy_audio_embeddings",
