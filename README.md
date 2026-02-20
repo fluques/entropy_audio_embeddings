@@ -1,4 +1,4 @@
-# Entropy embeddings
+# Audio entropy embeddings
 
 **entropy_embeddings** provides the tools to get a low dimensional metric space mapping for audio files. The interface gives a set of tools to input an mp3 file and as output a numpy 2d matrix is generated. The embeddings are robust for time shifting and noise evironments also it discrmineates between versions e.g. music recordings. With the low dimension representation task like audio retrieval search by excerpt are solved.
 
@@ -41,3 +41,5 @@ t = time
 
 ## Cite
 [1] Camarena-Ibarrola, A., Chávez, E., & Tellez, E. S. (2009, November). Robust radio broadcast monitoring using a multi-band spectral entropy signature. In Iberoamerican Congress on Pattern Recognition (pp. 587-594). Berlin, Heidelberg: Springer Berlin Heidelberg.
+
+[2] Camarena-Ibarrola, A., Luque, F., & Chavez, E. (2017, November). Speaker identification through spectral entropy analysis. In 2017 IEEE international autumn meeting on power, electronics and computing (ROPEC) (pp. 1-6). IEEE.
