@@ -9,7 +9,7 @@ pydub>=0.25.1 is required.
 numpy>= 2.4.2 is required.
 
 ```
-$ pip install entropy-embeddings
+$ pip install entropy-audio-embeddings
 ```
 
 ## Usage
