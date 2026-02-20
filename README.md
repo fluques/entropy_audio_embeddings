@@ -1,6 +1,6 @@
 # Audio entropy embeddings
 
-**entropy_embeddings** provides the tools to get a low dimensional metric space mapping for audio files. The interface gives a set of tools to input an mp3 file and as output a numpy 2d matrix is generated. The embeddings are robust for time shifting and noise evironments also it discrmineates between versions e.g. music recordings. With the low dimension representation task like audio retrieval search by excerpt are solved.
+**entropy_audio_embeddings** provides the tools to get a low dimensional metric space mapping for audio files. The interface gives a set of tools to input an mp3 file and as output a numpy 2d matrix is generated. The embeddings are robust for time shifting and noise evironments also it discrmineates between versions e.g. music recordings. With the low dimension representation task like audio retrieval search by excerpt are solved.
 
 
 ## Installation
@@ -20,7 +20,7 @@ $ python3 example.py
 For example:
 
 ```
-from entropy_embeddings import multiband_entropy_from_mp3
+from entropy_audio_embeddings import multiband_entropy_from_mp3
 from pathlib import Path
 
 print("Getting embeddings from mp3 file")
