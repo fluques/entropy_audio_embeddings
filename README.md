@@ -1,4 +1,4 @@
-# Entropy embeddings
+# Audio entropy embeddings
 
 **entropy_embeddings** provides the tools to get a low dimensional metric space mapping for audio files. The interface gives a set of tools to input an mp3 file and as output a numpy 2d matrix is generated. The embeddings are robust for time shifting and noise evironments also it discrmineates between versions e.g. music recordings. With the low dimension representation task like audio retrieval search by excerpt are solved.
 
